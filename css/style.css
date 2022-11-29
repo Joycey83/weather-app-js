@@ -26,7 +26,7 @@ h1 {
 
 .weather-app::before {
   content: "";
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
@@ -36,7 +36,7 @@ h1 {
 }
 
 .weather-container {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
