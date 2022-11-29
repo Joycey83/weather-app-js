@@ -44,8 +44,8 @@ h1 {
 }
 
 .panel {
-  position: absolute;
-  width: 55%;
+  position: relative;
+  width: 50%;
   height: 100%;
   top: 0;
   right: 0;
