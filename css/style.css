@@ -16,4 +16,7 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+  position: relative;
+  transition: 500ms;
+  opacity: 1;
 }
