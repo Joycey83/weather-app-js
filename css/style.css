@@ -1,6 +1,7 @@
 body {
   font-family: monospace;
   margin: 0;
+  padding: 0;
   background: #111;
   box-sizing: border-box;
 }
@@ -19,7 +20,7 @@ h1 {
   position: relative;
   transition: 500ms;
   opacity: 1;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .weather-app::before {
