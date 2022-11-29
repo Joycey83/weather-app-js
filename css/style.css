@@ -48,3 +48,17 @@ h1 {
   height: 100%;
   background: rgba(110, 110, 110, 0.75);
 }
+
+.submit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1.5em;
+  margin: 0;
+  border: none;
+  outline: none;
+  background: purple;
+  color: azure;
+  cursor: pointer;
+  font-size: 12px;
+}
