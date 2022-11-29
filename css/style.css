@@ -14,7 +14,8 @@ h1 {
 .weather-app {
   min-height: 100vh;
   background-image: url(../images/darkbg-image.jpg);
-  /* background-position: center; */
+  background-position: center;
+  object-fit: cover;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
