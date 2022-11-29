@@ -19,6 +19,7 @@ h1 {
   position: relative;
   transition: 500ms;
   opacity: 1;
+  overflow: hidden;
 }
 
 .weather-app::before {
