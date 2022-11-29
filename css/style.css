@@ -52,7 +52,7 @@ h1 {
 .submit {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 5px;
   padding: 1.5em;
   margin: 0;
   border: none;
