@@ -19,6 +19,11 @@
       integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
       crossorigin="anonymous"
     ></script>
+    <!-- FontAwesome Link -->
+    <script
+      src="https://kit.fontawesome.com/4a97a97101.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
     <div class="container-fluid">
@@ -41,7 +46,20 @@
           </ul>
         </div>
         <div class="col-lg-4">
-          <h2>TESTING</h2>
+          <div class="panel">
+            <form id="location-input">
+              <input type="text" class="search" placeholder="Search City..." />
+              <button type="submit" class="submit">
+                <i class="fa fa-search" aria-hidden="true"></i>
+              </button>
+            </form>
+            <ul class="cities">
+              <li class="city">New York</li>
+              <li class="city">Paris</li>
+              <li class="city">London</li>
+              <li class="city">Tokyo</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
