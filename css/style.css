@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #111;
+}
+* {
+  box-sizing: border-box;
+}
+
+.weather-app {
+  min-height: 100vh;
+  background-image: url(../images/darkbg-image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
