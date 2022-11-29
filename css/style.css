@@ -43,12 +43,8 @@ h1 {
   height: 100%;
 }
 
-/* .panel {
-  position: relative;
-  width: 60%;
+.panel {
+  width: 55%;
   height: 100%;
-  top: 0;
-  right: 0;
   background: rgba(110, 110, 110, 0.75);
-  padding: 15px 15px;
-} */
+}
