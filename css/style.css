@@ -71,6 +71,7 @@ li {
 }
 
 .search {
+  color: aliceblue;
   background: none;
   border: none;
   border-bottom: 1px #ccc solid;
