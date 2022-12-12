@@ -17,6 +17,10 @@ h1 {
   font-weight: 400;
 }
 
+li {
+  list-style: none;
+}
+
 .weather-app {
   color: #fff;
   position: relative;
