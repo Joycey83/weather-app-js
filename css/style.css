@@ -17,6 +17,9 @@ h1 {
   font-weight: 400;
 }
 
+.weather-container {
+  margin: 20px 20px;
+}
 .weather-app {
   color: #fff;
   position: relative;
