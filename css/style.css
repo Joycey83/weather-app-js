@@ -53,7 +53,7 @@ li {
 
 .submit {
   position: relative;
-  top: -42px;
+  top: -43px;
   left: 233px;
   padding: 15px;
   border: none;
@@ -77,4 +77,8 @@ li {
   padding: 0 16px 8px 0;
   width: 80%;
   font-size: 16px;
+}
+
+.search::placeholder {
+  color: #ccc;
 }
