@@ -50,3 +50,23 @@ li {
   background: rgba(0, 0, 0, 0.3);
   padding: 10px 25px;
 }
+
+.submit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  margin: 0;
+  border: none;
+  outline: none;
+  background: purple;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.submit:hover {
+  background: #fff;
+  color: #111;
+}
